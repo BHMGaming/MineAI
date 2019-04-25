@@ -14,7 +14,7 @@ This is an API to read, write and react to the game Minecraft.
 
 A (now obsolete) API for RL agents in Minecraft
 
-README.md
+README.md: 
 Minecraft AI
 Using reinforcement learning to design an intelligent AI for Minecraft. The model uses image analysis to "see" it's world and optimizes play in a closed system
 
