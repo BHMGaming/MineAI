@@ -12,9 +12,7 @@ MineAI
 
 This is an API to read, write and react to the game Minecraft.
 
-Bar's Site
 A (now obsolete) API for RL agents in Minecraft
-BHMGaming on Youtube
 
 README.md
 Minecraft AI
